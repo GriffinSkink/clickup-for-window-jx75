@@ -1,4 +1,4 @@
-# 
+# Enhance ClickUp for Windows with updated ClickUp for Windows Tool | gantt-charts + checklists, the #1 tool. Includes gantt-charts and checklists for a smoother and more productive
 
 
 
